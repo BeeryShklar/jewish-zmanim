@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="design.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2937">
+      <stop
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0"
+         id="stop2933" />
+      <stop
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1"
+         id="stop2935" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2807"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2805" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2937"
+       id="linearGradient2939"
+       x1="254"
+       y1="-303.45578"
+       x2="254"
+       y2="-220.40405"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,2.0124512e-5)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72705562"
+     inkscape:cx="1088.3409"
+     inkscape:cy="617.35506"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2845"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="2542"
+     inkscape:window-height="1373"
+     inkscape:window-x="2400"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.392971;fill:#000000;fill-opacity:1;stroke-width:5.29167;stroke-opacity:0;paint-order:markers stroke fill"
+       id="rect860"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0" />
+    <rect
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke-width:5.29167;stroke-opacity:0;paint-order:markers stroke fill"
+       id="rect884"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g866"
+       transform="translate(0.65598298,2.1834643)">
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:10.58330011px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo, Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+         x="498.88943"
+         y="13.828605"
+         id="text835"><tspan
+           sodipodi:role="line"
+           id="tspan833"
+           x="498.88943"
+           y="13.828605"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo, Light';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583;font-size:10.58330011px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">כ&quot;ט אלול תשפ&quot;א</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:10.58330011px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo, Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+         x="58.229473"
+         y="13.828605"
+         id="text839"><tspan
+           sodipodi:role="line"
+           id="tspan837"
+           x="58.229473"
+           y="13.828605"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo, Light';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583;font-size:10.58330011px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">16/1/2021</tspan></text>
+    </g>
+    <g
+       id="g2836"
+       transform="translate(6.150297e-6,-25.347888)">
+      <g
+         id="g2845"
+         transform="translate(0,7.6421245)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.1001px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.264583"
+           x="254.04208"
+           y="132.63301"
+           id="text2813"><tspan
+             sodipodi:role="line"
+             id="tspan2811"
+             x="254.04208"
+             y="132.63301"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:center;text-anchor:middle;fill:#ffd480;fill-opacity:1;stroke-width:0.264583">מנחה</tspan></text>
+        <g
+           id="g2827"
+           transform="matrix(0.67855277,0,0,0.67855277,67.606862,103.64902)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2817"><tspan
+               sodipodi:role="line"
+               id="tspan2815"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">15:57</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2821"><tspan
+               sodipodi:role="line"
+               id="tspan2819"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">פלג המנחה</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.1001px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffbd3e;fill-opacity:1;stroke-width:0.264583"
+           x="254.04208"
+           y="95.150208"
+           id="text2849"><tspan
+             sodipodi:role="line"
+             id="tspan2847"
+             x="254.04208"
+             y="95.150208"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Heavy';text-align:center;text-anchor:middle;fill:#ffbd3e;fill-opacity:1;stroke-width:0.264583">14:56</tspan></text>
+        <g
+           id="g2859"
+           transform="matrix(0.67855277,0,0,0.67855277,56.368267,116.74981)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2853"><tspan
+               sodipodi:role="line"
+               id="tspan2851"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">17:02</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2857"><tspan
+               sodipodi:role="line"
+               id="tspan2855"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">שקיעה</tspan></text>
+        </g>
+        <g
+           id="g2869"
+           transform="matrix(0.67855277,0,0,0.67855277,51.537087,129.8506)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2863"><tspan
+               sodipodi:role="line"
+               id="tspan2861"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">17:22</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2867"><tspan
+               sodipodi:role="line"
+               id="tspan2865"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">לילה</tspan></text>
+        </g>
+        <g
+           id="g2879"
+           transform="matrix(0.67855277,0,0,0.67855277,67.606862,143.31529)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2873"><tspan
+               sodipodi:role="line"
+               id="tspan2871"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">15:57</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2877"><tspan
+               sodipodi:role="line"
+               id="tspan2875"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">פלג המנחה</tspan></text>
+        </g>
+        <g
+           id="g2889"
+           transform="matrix(0.67855277,0,0,0.67855277,56.368267,156.41608)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2883"><tspan
+               sodipodi:role="line"
+               id="tspan2881"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">17:02</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2887"><tspan
+               sodipodi:role="line"
+               id="tspan2885"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">שקיעה</tspan></text>
+        </g>
+        <g
+           id="g2899"
+           transform="matrix(0.67855277,0,0,0.67855277,51.537087,169.51687)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2893"><tspan
+               sodipodi:role="line"
+               id="tspan2891"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">17:22</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2897"><tspan
+               sodipodi:role="line"
+               id="tspan2895"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">לילה</tspan></text>
+        </g>
+        <g
+           id="g2909"
+           transform="matrix(0.67855277,0,0,0.67855277,67.606862,182.41654)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2903"><tspan
+               sodipodi:role="line"
+               id="tspan2901"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">15:57</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2907"><tspan
+               sodipodi:role="line"
+               id="tspan2905"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">פלג המנחה</tspan></text>
+        </g>
+        <g
+           id="g2919"
+           transform="matrix(0.67855277,0,0,0.67855277,56.368267,195.51733)"
+           style="stroke-width:1.47372">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';letter-spacing:0px;word-spacing:0px;fill:#ffd480;fill-opacity:1;stroke-width:0.389922"
+             x="295.31119"
+             y="147.37378"
+             id="text2913"><tspan
+               sodipodi:role="line"
+               id="tspan2911"
+               x="295.31119"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#ffd480;fill-opacity:1;stroke-width:0.389922">17:02</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7287px;line-height:1.25;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.389922"
+             x="291.04593"
+             y="147.37378"
+             id="text2917"><tspan
+               sodipodi:role="line"
+               id="tspan2915"
+               x="291.04593"
+               y="147.37378"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heebo;-inkscape-font-specification:Heebo;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.389922">שקיעה</tspan></text>
+        </g>
+        <rect
+           style="opacity:1;fill:url(#linearGradient2939);fill-opacity:1;stroke-width:5.29167;stroke-opacity:0;paint-order:markers stroke fill"
+           id="rect2931"
+           width="508"
+           height="83.051735"
+           x="-6.1502969e-06"
+           y="-303.45578"
+           transform="scale(1,-1)" />
+      </g>
+    </g>
+  </g>
+</svg>
