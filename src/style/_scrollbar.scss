@@ -1,0 +1,25 @@
+* {
+	scrollbar-color: $secondary $dark;
+  scrollbar-width: thin;
+}
+
+ /* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: $dark;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: $secondary;
+	border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: $primary;
+} 
